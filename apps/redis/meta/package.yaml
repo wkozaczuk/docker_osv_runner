@@ -1,0 +1,6 @@
+name: redis-example
+title: Redis
+author: Anonymous
+require:
+- osv.redis-memonly
+created: 2018-06-02T22:14:41Z

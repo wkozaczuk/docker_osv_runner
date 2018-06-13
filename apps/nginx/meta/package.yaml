@@ -1,0 +1,6 @@
+name: nginx-example
+title: Nginx
+author: Anonymous
+require:
+- osv.nginx
+created: 2018-06-02T22:18:54Z
