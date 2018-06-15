@@ -1,0 +1,7 @@
+name: mysql-example
+title: MySQL Example
+author: Anonymous
+version: "1.0"
+require:
+- osv.mysql
+created: "2018-06-15T00:42:11-04:00"

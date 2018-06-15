@@ -1,0 +1,7 @@
+name: memcached-example
+title: Memcached Example
+author: Anonymous
+version: "1.0"
+require:
+- osv.memcached
+created: "2018-06-15T00:40:44-04:00"

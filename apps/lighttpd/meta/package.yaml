@@ -1,0 +1,7 @@
+name: lighttpd-example
+title: Lighttpd Example
+author: Anonymous
+version: "1.0"
+require:
+- osv.lighttpd
+created: "2018-06-15T00:38:32-04:00"
