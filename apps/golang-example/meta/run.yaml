@@ -1,0 +1,5 @@
+runtime: native
+config_set:
+  default:
+    bootcmd: "/go.so /hello.so"
+config_set_default: default

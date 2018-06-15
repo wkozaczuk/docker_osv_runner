@@ -1,0 +1,7 @@
+name: node-example
+title: Node.JS Example
+author: Anonymous
+version: "1.0"
+require:
+- osv.node-js
+created: "2018-06-14T23:43:23-04:00"

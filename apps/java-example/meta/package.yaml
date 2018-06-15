@@ -1,0 +1,7 @@
+name: java-example
+title: Java Example
+author: Anonymous
+version: "1.0"
+require:
+- osv.openjdk10-java-base
+created: "2018-06-13T18:09:24-04:00"

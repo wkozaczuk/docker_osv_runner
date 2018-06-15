@@ -1,0 +1,5 @@
+runtime: native
+config_set:
+  default:
+    bootcmd: "java.so -cp / Hello"
+config_set_default: default

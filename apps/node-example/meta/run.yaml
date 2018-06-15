@@ -1,0 +1,5 @@
+runtime: native
+config_set:
+  default:
+    bootcmd: "libnode.so hello.js"
+config_set_default: default

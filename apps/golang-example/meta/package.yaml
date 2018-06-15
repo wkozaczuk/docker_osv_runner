@@ -1,0 +1,7 @@
+name: go-example
+title: Golang Example
+author: Anonymous
+version: "1.0"
+require:
+- osv.run-go
+created: "2018-06-15T00:22:09-04:00"

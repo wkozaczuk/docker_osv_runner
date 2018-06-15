@@ -1,0 +1,7 @@
+name: python-example
+title: Python 2.7 Example
+author: Anonymous
+version: "1.0"
+require:
+- python-2.7
+created: "2018-06-14T23:55:20-04:00"

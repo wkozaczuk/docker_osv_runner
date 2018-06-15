@@ -1,0 +1,5 @@
+runtime: native
+config_set:
+  default:
+    bootcmd: "--env=PYTHON_ARGS?=-O --env=PYTHONHOME?=/pyenv --env=ARGS?= --env=MAIN?=hello.py /python $PYTHON_ARGS $MAIN $ARGS"
+config_set_default: default
