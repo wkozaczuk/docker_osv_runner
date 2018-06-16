@@ -26,3 +26,5 @@ done
 
 javac -d ./work -cp $CLASSPATH work/*.java
 jar uf ./work/elasticsearch/lib/elasticsearch-${VERSION}.jar -C ./work org
+
+mv ./work/elasticsearch .
