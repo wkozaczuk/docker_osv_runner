@@ -1,0 +1,8 @@
+191c191
+<         checks.add(fileDescriptorCheck);
+---
+>         //checks.add(fileDescriptorCheck);
+203c203
+<             checks.add(new MaxMapCountCheck());
+---
+>             //checks.add(new MaxMapCountCheck());

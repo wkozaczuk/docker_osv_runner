@@ -1,0 +1,13 @@
+64,68c64,69
+<         if (!JNA_AVAILABLE) {
+<             logger.warn("cannot check if running as root because JNA is not available");
+<             return false;
+<         }
+<         return JNANatives.definitelyRunningAsRoot();
+---
+>         //if (!JNA_AVAILABLE) {
+>         ////    logger.warn("cannot check if running as root because JNA is not available");
+>         ////    return false;
+>         ////}
+>         ////return JNANatives.definitelyRunningAsRoot();
+>         return false;
