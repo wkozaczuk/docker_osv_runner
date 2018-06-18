@@ -4,7 +4,7 @@ Here are the steps to build the image:
 
 Init the package
 ```
-capstan package init --name "go-example" --title "Golang Example" --author "Anonymous" \\
+capstan package init --name "go-example" --title "Golang Example" --author "Anonymous" \
   --version "1.0" --require "osv.run-go"
 ```
 Compile golang source code

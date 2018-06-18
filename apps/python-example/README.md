@@ -4,7 +4,8 @@ Here are the steps to build the image:
 
 Init the package
 ```
-capstan package init --name "python-example" --title "Python 2.7 Example" --author "Anonymous" --version "1.0" --require "python-2.7"
+capstan package init --name "python-example" --title "Python 2.7 Example" \
+  --author "Anonymous" --version "1.0" --require "python-2.7"
 ```
 Add run init to specify how to execute the app (please look at meta/run.yaml)
 Compose the package

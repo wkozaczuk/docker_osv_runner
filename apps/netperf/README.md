@@ -1,6 +1,7 @@
 Init the package
 ```
-capstan package init --name "netperf-example" --title "Netperf Example" --author "Anonymous" --version "1.0" --require "osv.netperf"
+capstan package init --name "netperf-example" --title "Netperf Example" \
+  --author "Anonymous" --version "1.0" --require "osv.netperf"
 ```
 Run this to compose:
 ```

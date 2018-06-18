@@ -4,7 +4,8 @@ Here are the steps to build the image:
 
 Init the package
 ```
-capstan package init --name "node-example" --title "Node.JS Example" --author "Anonymous" --version "1.0" --require "osv.node-js"
+capstan package init --name "node-example" --title "Node.JS Example" \
+  --author "Anonymous" --version "1.0" --require "osv.node-js"
 ```
 Add run init to specify how to execute the app (please look at meta/run.yaml)
 Compose the package

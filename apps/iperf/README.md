@@ -1,6 +1,7 @@
 Init the package
 ```
-capstan package init --name "iperf-example" --title "Iperf Example" --author "Anonymous" --version "1.0" --require "osv.iperf"
+capstan package init --name "iperf-example" --title "Iperf Example" \
+  --author "Anonymous" --version "1.0" --require "osv.iperf"
 ```
 Run this to compose:
 ```
