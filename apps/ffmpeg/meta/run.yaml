@@ -1,0 +1,5 @@
+runtime: native
+config_set:
+  default:
+    bootcmd: "/libhttpserver-api.so --config-file=/etc/httpserver.conf"
+config_set_default: default
