@@ -51,6 +51,7 @@ case "$1" in
     download_package ffmpeg "0.52.0"
     download_package lighttpd "0.51.0"
     download_package nginx "0.51.0"
+    download_package libz "0.52.0"
     download_package iperf "0.51.0"
     download_package python3x "0.52.0"
     download_package netperf "0.51.0"
